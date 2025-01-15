@@ -6,3 +6,7 @@ I fixed a problem and created another, as one does in life. I managed to fix the
 Whenever I feel stuck w coding I start working on my game's artwork :,) (which was many times today.)
 
 my goal for tomorrow is to finish the shooting mechanics and some(or most) of my artwork.
+
+15.01
+
+ok my projectiles exist. now onto figure out how to make them come from the player position. :,)
