@@ -32,9 +32,11 @@
       Problems for today:
       - fix the player being able to go out of bounds (DONE!)
       - figure out how to spawn multiple waves of enemies
-      - give enemies random movement
-      - figure piskel out :,,,) (and finish the enemy spritesheet)
-      - fix projectile firing while the player is dead
+      - give enemies random movement (Done, but can be improved)
+      - figure piskel out :,,,) (and finish the enemy spritesheet hehe)
+      - fix projectile firing while the player is dead 
+
+      
 
       
       
