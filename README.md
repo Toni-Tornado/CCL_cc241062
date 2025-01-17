@@ -28,5 +28,11 @@
       Fixed my projectile issue
 
 17.01
-
+      Problems for today:
+      - fix the player being able to go out of bounds
+      - figure out how to spawn multiple waves of enemies
+      - give enemies random movement
+      - figure piskel out :,,,) (and finish the enemy spritesheet)
+      - fix projectile firing while the player is dead
+      
       
