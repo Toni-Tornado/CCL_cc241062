@@ -35,7 +35,8 @@
       - give enemies random movement (Done, but can be improved)
       - figure piskel out :,,,) (and finish the enemy spritesheet hehe)
       - fix projectile firing while the player is dead 
-
+      - fix projectiles spawning behind the player in certain facing directions
+      
       
 
       
