@@ -36,12 +36,16 @@
       - figure piskel out :,,,) (and finish the enemy spritesheet hehe)
       - fix projectile firing while the player is dead 
       - fix projectiles spawning behind the player in certain facing directions
+      
+18.01/19.01
 
+      It was the weekend and i was resting :)
+      
 20.01
 
       Problems for today:
       - figure out how to spawn multiple waves of enemies
-      - fix projectile firing while the player is dead 
+      - fix projectile firing while the player is dead (DONE!...somewhat)
       - fix projectiles spawning behind the player in certain facing directions
       - make start/end screen :)
       - finish main character spritesheet
