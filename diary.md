@@ -45,9 +45,9 @@
 
       Problems for today:
       - figure out how to spawn multiple waves of enemies
-      - fix projectile firing while the player is dead (DONE!...somewhat)
-      - fix projectiles spawning behind the player in certain facing directions
-      - make start/end screen :)
+      - fix projectile firing while the player is dead (help)
+      - fix projectiles spawning behind the player in certain facing directions (DONE!)
+      - make start/end screen :) (Start Screen DONE!)
       - finish main character spritesheet
 
 
