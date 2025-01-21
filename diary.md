@@ -58,4 +58,5 @@
       - finish spritesheets
       - rework background
       - figure out enemy waves 
-      
+
+      an achievement for today: i made enemies spawn in specific positions using an array yippie!!
