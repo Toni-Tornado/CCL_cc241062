@@ -50,6 +50,12 @@
       - make start/end screen :) (Start Screen DONE!)
       - finish main character spritesheet (left/right facing DONE)
 
+21.01
 
-      
+      Problems for today:
+      - I don't feel well, so I'm working from home :(
+      - implement a game over screen (working on it)
+      - finish spritesheets
+      - rework background
+      - figure out enemy waves 
       
