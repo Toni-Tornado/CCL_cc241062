@@ -64,6 +64,6 @@
 22.01
 
       (I am almost done:,) )
-      - fix game over screen/you win screen
+      - fix game over screen/you win screen (thanks florian)
       - finish spritesheet (wizard done :))
-      - BG
+      - BG and start screen bg
