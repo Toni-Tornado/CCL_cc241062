@@ -65,7 +65,7 @@
 
       (I am almost done:,) )
       - fix game over screen/you win screen (thanks florian)
-      - finish spritesheet (wizard done :) and projectile also done, but it doesn't animate in the way i want it to :/)
-      - BG and start screen bg
+      - finish spritesheet (done!)
+      - BG and start screen bg (Start screen bg done!)
       - fix sprite issues (projectile works, wizard still slides around for no reason)
       
