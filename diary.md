@@ -71,6 +71,7 @@
 
 23.01
 
-      -You Win screen appears, but the button doesn't work :,)
+      - "You Win" screen appears, but the button doesn't work
+            -Update: I fixed it B) NENN MICH PROGRAMMIERER
       - I feel like I didn't do enough :/
       
