@@ -68,4 +68,9 @@
       - finish spritesheet (done!)
       - BG and start screen bg (Start screen bg done!)
       - fix sprite issues (projectile works, wizard still slides around for no reason)
+
+23.01
+
+      -You Win screen appears, but the button doesn't work :,)
+      - I feel like I didn't do enough :/
       
