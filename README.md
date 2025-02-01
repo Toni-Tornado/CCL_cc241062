@@ -20,7 +20,7 @@ Unfortunately I couldn't host the game via github without upgrading (paying) for
 
 ### Menu and UI:
 <div style="text-align: center;">
-  <img src="Start_ScreenBG_Anim.png.gif" alt="Menu UI Screenshot" width="600">
+  <img src="StartScreenMenu.png" alt="Menu UI Screenshot" width="600">
   <p>*Figure 2: Menu and user interface.*</p>
 </div>
 
