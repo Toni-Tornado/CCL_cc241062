@@ -40,6 +40,8 @@ Below are the sprites used to create characters and objects in the game:
 ### Enemies and NPCs:
 <div style="text-align: center;">
   <img src="Enemy3.png" alt="Enemy Sprite" width="500">
+  <img src="Enemy2.png" alt="Enemy Sprite" width="500">
+  <img src="Enemy1.png" alt="Enemy Sprite" width="500">
   <p>*Figure 4: Enemy animations.*</p>
 </div>
 
