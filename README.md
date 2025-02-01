@@ -12,7 +12,7 @@ Unfortunately I couldn't host the game via github without upgrading (paying) for
 
 ### Main Gameplay:
 <div style="text-align: center;">
-  <img src="" alt="Gameplay Screenshot" width="600">
+  <img src="A104_HruschkaAntonia_02.png" alt="Gameplay Screenshot" width="600">
   <p>*Figure 1: Example of gameplay in action.*</p>
 </div>
 
@@ -39,9 +39,7 @@ Below are the sprites used to create characters and objects in the game:
 
 ### Enemies and NPCs:
 <div style="text-align: center;">
-  <img src="Enemy3.png" alt="Enemy Sprite" width="500">
-  <img src="Enemy2.png" alt="Enemy Sprite" width="500">
-  <img src="Enemy1.png" alt="Enemy Sprite" width="500">
+  <img src="Enemies.png" alt="Enemy Sprite" width="500">
   <p>*Figure 4: Enemy animations.*</p>
 </div>
 
