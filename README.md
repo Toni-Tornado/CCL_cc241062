@@ -39,8 +39,15 @@ Below are the sprites used to create characters and objects in the game:
 
 ### Enemies and NPCs:
 <div style="text-align: center;">
-  <img src="Enemies.png" alt="Enemy Sprite" width="500">
+  <img src="Enemies.png" alt="Enemy Spritesheet" width="500">
   <p>*Figure 4: Enemy animations.*</p>
+</div>
+
+---
+### Additional Animations:
+<div style="text-align: center;">
+  <img src="Waterprojectile.png" alt="Water-projectile Spritesheet" width="500">
+  <p>*Figure 5: Spell animation.*</p>
 </div>
 
 ---
